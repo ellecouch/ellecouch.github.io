@@ -1,11 +1,9 @@
-# ellecouch.github.io
-This is my website.
 <!DOCTYPE html>
 <html>
 
 <head>
   <style>
-    body{color:#ffffff;}
+    body{color:#800000;}
   </style>
   
     <meta charset="utf-8">
@@ -71,13 +69,3 @@ This is my website.
 </body>
 
 </html>
-
-<css>
-  //selector{property:value}
-
-  body{background-color: #800000;}
-  h2 {font-size: 170%;
-    }
-</css>
-
-
