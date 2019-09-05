@@ -71,3 +71,13 @@ This is my website.
 </body>
 
 </html>
+
+<css>
+  //selector{property:value}
+
+  body{background-color: #800000;}
+  h2 {font-size: 170%;
+    }
+</css>
+
+
