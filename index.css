@@ -1,3 +1,81 @@
-  //selector{property:value}
+header{
+color: #a8c4ed;
+font-size: 150%;
+font-weight: bold;
+text-align: center;
+margin-bottom: 50px;
+}
 
-  body{background-color: #000000;}
+img{
+margin-left: 9%;
+}
+
+p1{
+color: #4c71a8;
+left: 550px;
+}
+
+p2{
+color: #0e5c08;
+top: 75px;
+left: 550px;
+}
+
+p3{
+color: #b8a009;
+top: 110px;
+left: 550px;
+}
+
+p4{
+color: #0655cc;
+top: 95px;
+left: 550px;
+}
+
+p5{
+color: #5100ff;
+top: 115px;
+left: 550px;
+}
+
+p6{
+color: #6b30c9;
+top: 135px;
+left: 550px;
+}
+
+p7{
+color: #eb344c;
+top: 155px;
+left: 550px;
+}
+
+p8{
+color: #910707;
+top: 175px;
+left: 550px;
+}
+
+p9{
+color: #ad711c;
+top: 195px;
+left: 550px;
+}
+
+p10{
+color: #bf0b9e;
+top: 215px;
+left: 550px;
+}
+
+footer{
+color: #2b747a;
+text-align: center;
+}
+
+.wrapper{
+margin-left: auto;
+margin-right: auto;
+width: 25%;
+}
