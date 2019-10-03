@@ -1,3 +1,9 @@
+.container{
+display:grid;
+gri-template-rows: 1fr;
+grid-template-columns: 1fr 1fr;
+}
+
 header{
 color: #a8c4ed;
 font-size: 150%;
